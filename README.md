@@ -3,6 +3,8 @@
 
 This guide is part of the LM18 project repository, consisting of multiple components. Please read the disclaimers, consult the community, and ensure you understand all safety issues. This demonstration project is intended to showcase feasibility and encourage further development. It is not designed for general use but is aimed at professionals and skilled makers. Use this guide at your own risk; the author(s) decline any responsibility for its use.
 
+![ElAp Diagram](images/image2.png)
+
 ## Overview
 
 This document provides instructions for:
