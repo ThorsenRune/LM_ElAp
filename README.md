@@ -42,9 +42,6 @@ The design presented is one of several proposed options and may be incomplete; c
 - Use an FDM 3D printer or consult a local or online 3D printing service.
 - Alternative: SLS technology for maximum durability (increased cost, limited color options, and additional finishing requirements).
 
-### Material:
-- Polyamide is recommended for its affordability and durability.
-- Select preferred color options as desired.
 
 ### Printing Position:
 - Arrange the components on the printing plane as shown in the provided illustrations for optimal results.
