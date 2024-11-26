@@ -12,6 +12,8 @@ This document provides instructions for:
 
 The design presented is one of several proposed options and may be incomplete; contributions to its improvement are encouraged.
 
+Here is a list of designs
+(to be completed)
 ---
 
 ## 1. Personalize the 3D Model
@@ -41,32 +43,3 @@ The design presented is one of several proposed options and may be incomplete; c
 ### Technology:
 - Use an FDM 3D printer or consult a local or online 3D printing service.
 - Alternative: SLS technology for maximum durability (increased cost, limited color options, and additional finishing requirements).
-
-
-### Printing Position:
-- Arrange the components on the printing plane as shown in the provided illustrations for optimal results.
-
----
-
-## 3. Additional Components
-
-### 3.1 Order the PCBs
-- Use the provided [link](#) to order the necessary PCBs.
-
-### 3.2 Order Velcro
-- Elastic Velcro: [Order here](#).  
-- Adhesive Velcro: [Order here](#).
-
-### 3.3 Order EMG Electrodes and Pads
-- Electrodes: [Order here](#).  
-- Adhesive Pads: [Order here](#).
-
-### 3.4 Order EMS Electrodes
-- Disposable EMS electrodes: [Order here](#).  
-- Note: Reusable until adhesiveness is lost. Clean with water to extend usage.
-
-### 3.5 Order Screws
-- [Order here](#).
-
-### 3.6 Order Adhesive Neoprene Foam Strip
-- [Order here](#).
