@@ -16,6 +16,7 @@ The design presented is one of several proposed options and may be incomplete; c
 
 Here is a list of designs
 (to be completed)
+https://cad.onshape.com/documents/672b537dbdcf6389cad727a5/w/a1833756fe7f60467d7718d6/e/d8bd53e363bb51233679b63a
 ---
 
 ## 1. Personalize the 3D Model
